@@ -2,3 +2,5 @@
 Git is a version control tool!
 
 also free for us to use
+
+thanks for everyone here
